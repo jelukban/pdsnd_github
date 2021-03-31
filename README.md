@@ -7,7 +7,7 @@
 Bikeshare Project
 
 ### Description
-Project allows user to analyze the bikeshare data for three different cities: Chicago, NYC, and Washington.
+Project allows user to analyze the bikeshare data for three different cities: Chicago, NYC, and Washington. There are various metrics that will be summarized depending on what city the user chooses to analyze.
 
 ### Files used
 chicago.csv
