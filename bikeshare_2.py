@@ -98,7 +98,7 @@ def display_data(df):
             raw = input("\nYour input is invalid. Please enter only 'Y' or 'N'\n").upper()
 
 def time_stats(df):
-    """Displays statistics on the most frequent times of travel."""
+    """Displays statistics on the most frequent times of travel (month, day, hour)."""
     print('\nCalculating The Most Frequent Times of Travel...\n')
     start_time = time.time()
     df['Start Time'] = pd.to_datetime(df['Start Time'])
