@@ -4,7 +4,7 @@
 20210329
 
 ### Project Title
-Bikeshare Project
+Udacity Bikeshare Project
 
 ### Description
 Project allows user to analyze the bikeshare data for three different cities: Chicago, NYC, and Washington. There are various metrics that will be summarized depending on what city the user chooses to analyze.
